@@ -1,4 +1,3 @@
-
 # Calculator App:
 
 print("\nWelcome to the calculator application!\n")
